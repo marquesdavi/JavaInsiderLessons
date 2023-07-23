@@ -13,11 +13,11 @@ public class App {
     }
 
     static int findMin(int[] array) {
-        int min = Integer.MAX_VALUE;
+        int min = Integer.MAX_VALUE; // Acha o maior valor possível dentro dos inteiros
 
-        for (int e : array) {
-            if (e < min) {
-                min = e;
+        for (int e : array) { // Percorre o array
+            if (e < min) { // Verifica se a posição atual é menor que o valor de "min"
+                min = e; // Se a condição for verdadeira, "min" vai receber o valor da posição atual
             }
         }
         return min;
