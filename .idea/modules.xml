@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condicionais e operadores segunda pt/Condicionais e operadores segunda pt.iml" filepath="$PROJECT_DIR$/Condicionais e operadores segunda pt/Condicionais e operadores segunda pt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ExerciciosJavaInsider.iml" filepath="$PROJECT_DIR$/.idea/ExerciciosJavaInsider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repetições/Repetições.iml" filepath="$PROJECT_DIR$/Repetições/Repetições.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sintaxe Basica/Sintaxe Basica.iml" filepath="$PROJECT_DIR$/Sintaxe Basica/Sintaxe Basica.iml" />
+    </modules>
+  </component>
+</project>
