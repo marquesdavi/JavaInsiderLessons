@@ -1,3 +1,4 @@
+package futureprogrammer.Repetições.Repeticoes.src;
 public class Multiplication {
     public static void main(String[] args){
         int n = 3;

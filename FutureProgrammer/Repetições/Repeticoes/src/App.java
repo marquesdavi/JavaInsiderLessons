@@ -1,3 +1,4 @@
+package futureprogrammer.Repetições.Repeticoes.src;
 public class App {
     public static void main(String[] args){
         int min = 10;

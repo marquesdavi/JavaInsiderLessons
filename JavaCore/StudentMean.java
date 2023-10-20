@@ -1,4 +1,4 @@
-package JavaCore;
+package javacore;
 
 import java.util.Scanner;
 

@@ -1,3 +1,4 @@
+package futureprogrammer.Strings.src;
 public class StringsEquality {
     public static void main(String[] args){
         String a = "comida";

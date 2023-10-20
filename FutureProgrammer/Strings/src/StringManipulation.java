@@ -1,3 +1,4 @@
+package futureprogrammer.Strings.src;
 public class StringManipulation {
     public static void main(String[] args){
         String nome = "eugostum".toUpperCase(); // Converte toda a String para maiúsculo

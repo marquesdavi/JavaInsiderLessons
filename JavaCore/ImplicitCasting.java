@@ -1,4 +1,4 @@
-package JavaCore;
+package javacore;
 
 public class ImplicitCasting {
     public static void main(String[] args) {

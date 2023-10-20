@@ -1,3 +1,4 @@
+package futureprogrammer.Strings.src;
 import java.util.Scanner;
 
 public class StringToIntCasting {

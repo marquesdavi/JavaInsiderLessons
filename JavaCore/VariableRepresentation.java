@@ -1,4 +1,4 @@
-package JavaCore;
+package javacore;
 
 public class VariableRepresentation {
     public static void main(String[] args) {

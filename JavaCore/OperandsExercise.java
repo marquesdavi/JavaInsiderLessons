@@ -1,4 +1,4 @@
-package JavaCore;
+package javacore;
 
 public class OperandsExercise {
     public static void main(String[] args) {
